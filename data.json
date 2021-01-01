@@ -1,0 +1,20 @@
+{
+"stu_details":
+
+[ {
+  "stu_name" : "ABC",
+  "roll_num" : 1
+}, {
+  "stu_name" : "DEF",
+  "roll_num" : 2
+}, {
+  "stu_name" : "GHI",
+  "roll_num" : 3
+}, {
+  "stu_name" : "JKL",
+  "roll_num" : 4
+}, {
+  "stu_name" : "NOP",
+  "roll_num" : 5
+} ]
+}
